@@ -1272,3 +1272,19 @@ footer .credits a {
   font-weight: 700;
   margin-top: 2ch;
 }
+.leftfoot {
+  font-weight: 700;
+  margin-top: 1ch;
+  /* margin-bottom: 3ch; */
+}
+
+.authordata{
+  font-weight: 500;
+  font-size: 20px;
+  text-align: center;
+}
+
+.workicon{
+  font-size: 25px;
+  text-align: center;
+}
