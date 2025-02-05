@@ -1288,3 +1288,11 @@ footer .credits a {
   font-size: 25px;
   text-align: center;
 }
+
+.urllink {
+  margin-left: 2ch; 
+  margin-top: -1ch; 
+  font-weight: bold; 
+  text-decoration: none;
+  color: rgb(224, 40, 40);
+}
